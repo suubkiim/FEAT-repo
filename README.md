@@ -1,3 +1,3 @@
 # FEAT-repo
 
-* baseline code source: https://github.com/yuezhihan/ts2vec
+* baseline code source: [ts2vec](https://github.com/yuezhihan/ts2vec)
